@@ -1,0 +1,8 @@
+{
+    "fullname": "cypress-user",
+    "email": "cypress-user@local.host",
+    "password": "adminadmin",
+    "pubkey": "cypress-user",
+    "active": true,
+    "activation": true
+}

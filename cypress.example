@@ -1,0 +1,10 @@
+{
+    "viewportWidth": 1200,
+    "viewportHeight": 800,
+    "baseUrl": "http://localhost",
+    "video": false,
+    "env": {
+        "timeout": 10000,
+        "PREFIX_API": "sample"
+    }
+}

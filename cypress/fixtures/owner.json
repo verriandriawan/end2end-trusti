@@ -1,0 +1,8 @@
+{
+    "email": "owner-asset@local.host",
+    "fullname": "owner",
+    "password": "adminadmin",
+    "pubkey": "owner-asset",
+    "active": true,
+    "activation": true
+}
